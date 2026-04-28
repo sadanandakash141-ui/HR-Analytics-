@@ -83,4 +83,4 @@ Dashboard :
 
 Power BI :
 
-![Preview]() 
+![Preview](https://github.com/sadanandakash141-ui/HR-Analytics-/blob/main/HR%20Analytics%20Dashboard.png) 
