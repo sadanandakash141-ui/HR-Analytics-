@@ -12,7 +12,11 @@ Employee retention is one of the most critical challenges for any organization. 
 📈 Key Metrics (KPIs)
 
 Metric                       Value 
+
 Attrition Rate               50.21%
+
 Total Employee Count         50,000 
+
 Average Monthly Income       $26,020
+
 Average Total Working Years  20.50 years
