@@ -49,6 +49,38 @@ Key Insight: Average working years are nearly equal across all departments (~20.
 A horizontal bar chart showing Average Attrition Flag by department.
 Key Insight: All departments show attrition flags between 0.49 and 0.51, suggesting attrition is a company-wide issue rather than department-specific.
 
-6. 🔍 Selected Filter: Male Research Scientist
+6. Male Research Scientist
 
 A spotlight card showing a filtered view for Male Research Scientists with an Average Hourly Rate of $115.16.
+
+🛠️ Tools & Technologies
+Tool    Purpose 
+
+
+PowerBI Desktop       Dashboard creation and visualization
+
+DAX (Data Analysis Expressions)Custom KPI calculations and measures
+
+Power Query  Data transformation and cleaning
+
+Excel / CSV  Source data format
+
+
+💡 Key Insights & Findings
+
+Attrition is uniformly high (~50%) across all income bands, departments, and promotion gap categories — suggesting systemic organizational factors rather than isolated causes.
+
+Work-life balance varies by role, with roles like Sales Executive and Laboratory Technician showing higher proportions of "Poor" ratings.
+
+Promotion gap does not significantly impact attrition — even recently promoted employees show ~50% attrition, pointing to broader engagement or culture issues.
+
+Departmental working years are nearly identical, indicating consistent tenure patterns organization-wide.
+
+Male Research Scientists earn an average hourly rate of $115.16, providing a benchmark for compensation analysis.
+
+
+Dashboard : 
+
+Power BI :
+
+![Preview]() 
